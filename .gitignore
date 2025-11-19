@@ -1,0 +1,35 @@
+# Ignore Python cache
+__pycache__/
+app/__pycache__/
+
+# Ignore database files
+treks.db
+
+# Ignore data files
+data/treks.csv
+
+# Ignore vector store directory
+vectorstore/
+persist/
+
+# Ignore templates (if auto-generated — keep if you want to version them)
+templates/
+
+# Ignore virtual environment (if any)
+venv/
+.env/
+
+# Ignore model or embedding cache
+*.pkl
+*.bin
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled python files
+*.pyc
+
+# Ignore build artifacts
+dist/
+build/
