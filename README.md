@@ -4,6 +4,9 @@
 
 > A locally run, LLM-powered travel assistant that turns a simple question into a step-by-step, weather-aware trekking itinerary, grounded in a curated and updatable knowledge base.
 
+<img width="1280" height="653" alt="image" src="https://github.com/user-attachments/assets/f5d60199-842c-4c9d-8bf9-89382c044980" />
+<img width="480" height="501" alt="image" src="https://github.com/user-attachments/assets/078870e7-e4e7-4536-8d9d-41a1ec5611af" />
+
 **Repositories**
 
 | Part | Repository |
